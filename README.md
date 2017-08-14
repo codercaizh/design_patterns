@@ -1,4 +1,4 @@
-# design_mode
+# Design Patterns
 关于设计模式的demo说明
 * 项目下每个包都对应一种设计模式
 * 每个包下均有对应的Main类及可运行main函数
